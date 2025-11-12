@@ -1,7 +1,6 @@
 
 ---
 
-````markdown
 # 🧠 cpp-labyrinth  
 **Exploring the Depths of C++ — from Memory to Machines, APIs, and Blockchains**
 
